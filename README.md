@@ -6,7 +6,7 @@ In modern data-driven organizations, large volumes of raw data are generated in 
 <img width="938" height="437" alt="image" src="https://github.com/user-attachments/assets/54d8ded0-2e7e-47ca-b0f2-32a6755f9bab" />
 
 
-## aws billing 
+## Project billing 
 <img width="933" height="593" alt="image" src="https://github.com/user-attachments/assets/2b484cc6-0ea8-443a-9de6-828dc1cc35e0" />
 
 
