@@ -17,6 +17,7 @@ This project addresses these challenges by building a serverless cloud data pipe
 
 
 ## architecture 
+<img width="956" height="457" alt="image" src="https://github.com/user-attachments/assets/30a20eeb-8bfc-4ab2-b309-6e25ae0d3534" />
 
 ## aws billing 
 <img width="933" height="593" alt="image" src="https://github.com/user-attachments/assets/2b484cc6-0ea8-443a-9de6-828dc1cc35e0" />
