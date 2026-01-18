@@ -1,6 +1,6 @@
-##architecture 
+## architecture 
 
-##aws billing 
+## aws billing 
 <img width="933" height="593" alt="image" src="https://github.com/user-attachments/assets/2b484cc6-0ea8-443a-9de6-828dc1cc35e0" />
 
 
