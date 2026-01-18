@@ -2,7 +2,7 @@
 In modern data-driven organizations, large volumes of raw data are generated in formats like CSV, making manual processing inefficient, error-prone, and non-scalable. Traditional on-premise ETL systems also suffer from high maintenance and limited flexibility. This project addresses these challenges by building a scalable, automated, and cost-effective serverless data pipeline on AWS that ingests raw data from cloud storage, transforms it into analytics-ready format, and provides reliable monitoring with minimal manual intervention.
 
 
-## architecture 
+## Project Architecture 
 <img width="938" height="437" alt="image" src="https://github.com/user-attachments/assets/54d8ded0-2e7e-47ca-b0f2-32a6755f9bab" />
 
 
