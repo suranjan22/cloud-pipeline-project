@@ -1,4 +1,19 @@
- # problem statement 
+ # Problem Statement 
+ In modern data-driven organizations, large volumes of raw data are generated and stored in different formats such as CSV files. Manually processing this data for analytics and reporting is inefficient, error-prone, and does not scale well as data volume grows. Traditional on-premise ETL solutions also require high infrastructure maintenance and lack flexibility.
+
+There is a need for a scalable, automated, and cost-effective cloud-based data pipeline that can:
+
+Automatically ingest raw data from cloud storage
+
+Transform the data into a structured and analytics-ready format
+
+Execute without manual intervention
+
+Scale dynamically based on data size
+
+Provide monitoring and logging for reliability
+
+This project addresses these challenges by building a serverless cloud data pipeline on AWS that automates the end-to-end ETL process using cloud-native services.
 
 
 ## architecture 
